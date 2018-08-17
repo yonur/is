@@ -9,3 +9,5 @@ Cep telefonu puk kodu: 58580783
 
 Cep telefonu şifresi: 0806
 
+Windows imajdan kurma programı: Ghost Cast. Ama önce kurmak istediğin örnek Windows işletim sisteminin imajını almak lazım.
+
