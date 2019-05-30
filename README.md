@@ -11,3 +11,6 @@ Cep telefonu şifresi: 0806
 
 Windows imajdan kurma programı: Ghost Cast. Ama önce kurmak istediğin örnek Windows işletim sisteminin imajını almak lazım.
 
+TPS70950DBVR
+
+TPS78233DDC
